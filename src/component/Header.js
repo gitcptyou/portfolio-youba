@@ -10,6 +10,10 @@ function Header() {
         <div className='divh3'> <NavLink to='/projet'>Project</NavLink>   </div>
         <div className='divh4'> <NavLink to='/contact'>Contact</NavLink>   </div>
         <div className='divh5'> <NavLink to='/competence'>Knowledges</NavLink>  </div>
+        <div className="divh6"><NavLink to='/avis' >Avis</NavLink> </div>
+        <div className="divh7"><NavLink to='/list' >list des opinions</NavLink> </div>
+       
+       
 
     </div>
 
